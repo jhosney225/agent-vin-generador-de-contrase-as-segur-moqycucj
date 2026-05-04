@@ -1,0 +1,6 @@
+{
+  "name": "agent-vin-generador-de-contrase-as-segur-moqycucj",
+  "version": "1.0.0",
+  "description": "Proyecto de Vin [Gen0]: generador de contraseñas seguras con entropía",
+  "main": "index.js"
+}
